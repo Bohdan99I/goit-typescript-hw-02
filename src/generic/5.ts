@@ -8,4 +8,4 @@ interface KeyValuePair<TKey, TValue> {
   value: TValue;
 }
 
-export { };
+export {};

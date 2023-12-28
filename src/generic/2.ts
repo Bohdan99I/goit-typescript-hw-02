@@ -23,4 +23,4 @@ function compare<T extends Top, Y extends Bottom>(top: T, bottom: Y): AllType {
   }
 }
 
-export { };
+export {};

@@ -16,4 +16,4 @@ class Page extends Component<Props> {
   }
 }
 
-export { };
+export {};
